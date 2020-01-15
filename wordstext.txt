@@ -10,5 +10,4 @@ Sotonu s dniuhoj
 Added some new shit
 And there is a great update
 for a few lines of text
-fail 
-Shitty update 15.01.20
+fail
